@@ -1,5 +1,4 @@
 class Solution:
-        #two pointers approach
         def shuffle(self, nums: List[int], n: int) -> List[int]:
                 left = 0 
                 right = len(nums) // 2
